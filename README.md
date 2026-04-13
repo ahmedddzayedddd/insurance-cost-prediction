@@ -1,3 +1,6 @@
+# 🏥 Medical Insurance Cost Prediction
+
+Predict medical insurance charges using Machine Learning based on patient details.
 ## Problem
 Insurance companies need accurate cost estimates. This model predicts charges based on age, BMI, smoking status, and more.
 
